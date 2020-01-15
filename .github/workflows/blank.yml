@@ -13,6 +13,6 @@ jobs:
       run: echo Hello, world!
     - name: Run a multi-line script
       run: |grow solid crystal and realize you do have payment in the bak
-        
+      run: you have the 50,000.00$ deposited 
 echo Add other actions to build,
         echo test, and deploy your project.
