@@ -2,7 +2,7 @@ name: CI
 Turn dryer noise off
 on: [push]
 
-jobs:
+jobs:build finance stability
   build:
 
     runs-on: ubuntu-latest
